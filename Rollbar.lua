@@ -120,8 +120,8 @@ local module: schema = {
 	},
 	
 	Auth = {
-		ServerToken = "dc90a86abd614555b6de84f07c8640d4",
-		ClientToken = "7df77ad7c2d34e379dc8eea507ce773e"
+		ServerToken = "dfcg345sf234gghdf44222ss",
+		ClientToken = "dfg843vvxc4434sq934fgjdd"
 	},
 	
 	--[[INTERNAL PROPERTIES]]--
